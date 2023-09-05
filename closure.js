@@ -1,0 +1,1 @@
+//Create a function that returns another function that can only be called 1 time

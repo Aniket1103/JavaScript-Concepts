@@ -1,0 +1,1 @@
+//implement call, apply, bind (polyfill)
